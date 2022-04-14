@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="3654" started-at="2022-04-14T19:20:03 IST" finished-at="2022-04-14T19:20:06 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="3654" started-at="2022-04-14T19:20:03 IST" finished-at="2022-04-14T19:20:06 IST">
+      <class name="com.spotify.tests.PlaylistTests">
+        <test-method status="PASS" signature="beforeMethode(java.lang.reflect.Method)[pri:0, instance:com.spotify.tests.PlaylistTests@1f0f1111]" name="beforeMethode" is-config="true" duration-ms="16" started-at="2022-04-14T19:20:03 IST" finished-at="2022-04-14T19:20:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.spotify.tests.PlaylistTests.UpdatePlaylist()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethode -->
+        <test-method status="PASS" signature="beforeMethode(java.lang.reflect.Method)[pri:0, instance:com.spotify.tests.PlaylistTests@1f0f1111]" name="beforeMethode" is-config="true" duration-ms="16" started-at="2022-04-14T19:20:03 IST" finished-at="2022-04-14T19:20:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.spotify.tests.PlaylistTests.CreatePlaylistWithExpiredToken()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethode -->
+        <test-method status="PASS" signature="beforeMethode(java.lang.reflect.Method)[pri:0, instance:com.spotify.tests.PlaylistTests@1f0f1111]" name="beforeMethode" is-config="true" duration-ms="16" started-at="2022-04-14T19:20:03 IST" finished-at="2022-04-14T19:20:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.spotify.tests.PlaylistTests.CreatePlaylist()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethode -->
+        <test-method status="PASS" signature="beforeMethode(java.lang.reflect.Method)[pri:0, instance:com.spotify.tests.PlaylistTests@1f0f1111]" name="beforeMethode" is-config="true" duration-ms="16" started-at="2022-04-14T19:20:03 IST" finished-at="2022-04-14T19:20:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.spotify.tests.PlaylistTests.GetPlaylist()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethode -->
+        <test-method status="PASS" signature="beforeMethode(java.lang.reflect.Method)[pri:0, instance:com.spotify.tests.PlaylistTests@1f0f1111]" name="beforeMethode" is-config="true" duration-ms="16" started-at="2022-04-14T19:20:03 IST" finished-at="2022-04-14T19:20:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.spotify.tests.PlaylistTests.CreatePlaylistWithoutName()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethode -->
+        <test-method status="PASS" signature="CreatePlaylist()[pri:0, instance:com.spotify.tests.PlaylistTests@1f0f1111]" name="CreatePlaylist" duration-ms="3487" started-at="2022-04-14T19:20:03 IST" description="Should be able to create playlist" finished-at="2022-04-14T19:20:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatePlaylist -->
+        <test-method status="PASS" signature="GetPlaylist()[pri:0, instance:com.spotify.tests.PlaylistTests@1f0f1111]" name="GetPlaylist" duration-ms="3407" started-at="2022-04-14T19:20:03 IST" finished-at="2022-04-14T19:20:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetPlaylist -->
+        <test-method status="PASS" signature="CreatePlaylistWithoutName()[pri:0, instance:com.spotify.tests.PlaylistTests@1f0f1111]" name="CreatePlaylistWithoutName" duration-ms="3359" started-at="2022-04-14T19:20:03 IST" finished-at="2022-04-14T19:20:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatePlaylistWithoutName -->
+        <test-method status="PASS" signature="UpdatePlaylist()[pri:0, instance:com.spotify.tests.PlaylistTests@1f0f1111]" name="UpdatePlaylist" duration-ms="3435" started-at="2022-04-14T19:20:03 IST" finished-at="2022-04-14T19:20:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdatePlaylist -->
+        <test-method status="PASS" signature="CreatePlaylistWithExpiredToken()[pri:0, instance:com.spotify.tests.PlaylistTests@1f0f1111]" name="CreatePlaylistWithExpiredToken" duration-ms="2573" started-at="2022-04-14T19:20:03 IST" finished-at="2022-04-14T19:20:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatePlaylistWithExpiredToken -->
+      </class> <!-- com.spotify.tests.PlaylistTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

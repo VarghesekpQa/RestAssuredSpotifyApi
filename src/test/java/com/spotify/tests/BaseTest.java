@@ -1,0 +1,16 @@
+package com.spotify.tests;
+
+import org.testng.annotations.BeforeMethod;
+
+import java.lang.reflect.Method;
+
+public class BaseTest {
+
+    @BeforeMethod
+    public void beforeMethode(Method m){
+        System.out.println("STARTING TEST: "+ m.getName());
+        System.out.println("THREAD ID: "+ Thread.currentThread().getId());
+    }
+
+
+}
